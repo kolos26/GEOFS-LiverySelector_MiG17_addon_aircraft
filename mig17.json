@@ -1,0 +1,12 @@
+{
+    "liveries": [
+        {
+            "name" : "Hungarian Peoples Army",
+            "texture": ["https://i.ibb.co/xLcjjr7/hunaf.jpg", "https://i.ibb.co/6FFZKfr/hunafwing.jpg", "https://i.ibb.co/GWzPB55/hunafvstab.jpg"]
+        },
+        {
+            "name": "Soviet Air Forces",
+            "texture": ["https://i.ibb.co/JRTtWvp/saf.jpg", "https://i.ibb.co/2gYYccb/safwing.jpg", "https://i.ibb.co/7J131Pw/safvstab.jpg"]
+        }
+    ]
+}
