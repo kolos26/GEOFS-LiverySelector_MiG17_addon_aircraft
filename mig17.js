@@ -4,7 +4,7 @@ async function init(){
     document.getElementById("liverybutton").setAttribute("onclick", "listMig()");
     geofs.debug.loadMiG17GearDown();
     geofs.debug.loadMiG17GearUp();
-    await fetch("https://raw.githubusercontent.com/kolos26/LiverySelector_MiG17_addon_aircraft/main/mig17.json").then(res => res.json()).then(data => liveryobjmig = data)
+    await fetch("https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector_MiG17_addon_aircraft/main/mig17.json").then(res => res.json()).then(data => liveryobjmig = data)
 }
 
 function loadMigLivery(textures){
